@@ -15,8 +15,8 @@ Total Columns: 21
 
  ### This database contains the following features:-
 
-  id \ 
-  imdb_id : A unique identifier for each movie on IMDB.\
+  id   \ 
+  imdb_id : A unique identifier for each movie on IMDB.  \
   cast \
   director\
   budget \
