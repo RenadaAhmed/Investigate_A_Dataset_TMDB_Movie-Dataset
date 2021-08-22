@@ -15,26 +15,26 @@ Total Columns: 21
 
  ### This database contains the following features:-
 
- id  
- imdb_id : A unique identifier for each movie on IMDB.
- cast 
- director
- budget 
- genres
-homepage  
- keywords 
- original_title
- overview 
-popularity : A numeric quantity specifying the movie popularity.
- production_companies:  The production house of the movie.
- release_date
- revenue 
-runtime 
- tagline 
- vote_average: average ratings the movie recieved
- vote_counts
- budget_adj: shows the budget associated movie in terms of 2010 dollars.
- revenue_adj " shows the revenue associated movie in terms of 2010 dollars.
+  id \ 
+  imdb_id : A unique identifier for each movie on IMDB.\
+  cast \
+  director\
+  budget \
+  genres  \
+  homepage  \
+  keywords \
+  original_title\
+  overview \
+  popularity : A numeric quantity specifying the movie popularity. \
+  production_companies:  The production house of the movie. \
+  release_date \
+  revenue \
+  runtime \
+  tagline \
+  vote_average: average ratings the movie recieved \
+  vote_counts \
+  budget_adj: shows the budget associated movie in terms of 2010 dollars. \
+  revenue_adj :  shows the revenue associated movie in terms of 2010 dollars. \
 
 ### Questions 
 
